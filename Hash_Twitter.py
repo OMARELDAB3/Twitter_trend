@@ -19,4 +19,9 @@ The reason is one
 
 Don't listen to someone telling you to {red}#KEEPGOING{white}
 
-There is always darkness""")
+There is always darkness
+
+We were threatened like the others
+We were threatened like the others
+We were threatened like the others
+""")
