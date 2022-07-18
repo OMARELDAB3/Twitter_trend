@@ -1,8 +1,9 @@
 red = '\033[31m'
 green = '\033[1;32m'
 white = '\033[1;38m'
-print(f"""{green}قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ{white}
-This script is closed forever
+print(f"""{green}قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+
+{white}This script is closed forever
 Script developer is no longer available
 You are in a country where you cannot live
 You just have to hide to live
