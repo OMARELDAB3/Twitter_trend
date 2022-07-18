@@ -1,7 +1,8 @@
 red = '\033[31m'
 green = '\033[1;32m'
 white = '\033[1;38m'
-print(f"""{green}قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+print(f"""قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا
+
 
 {white}This script is closed forever
 Script developer is no longer available
